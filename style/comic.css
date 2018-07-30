@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Chewy');
+body{
+    margin: 0;
+    font-size: 12px;
+    display: grid;
+    grid-column: 1;
+    grid-row: 1;
+    align-content: center;
+    font-family: 'Chewy', cursive;
+    
+}
+header{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(244, 235, 66);
+}
+.chiiru_header{
+    font-size: 4em;
+}

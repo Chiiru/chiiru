@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+.episode{
+    display: grid;
+    grid-column: 1;
+    align-content: center;
+    justify-content: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.episode_title{
+    font-size: 6em;
+    text-align: center;
+}
+.episode_subheading{
+    font-size: 1.5em;
+    text-align: center;
+}
+.episode_panel{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.episode_panel_img{
+    object-fit: cover;
+    width: 100%;
+}
