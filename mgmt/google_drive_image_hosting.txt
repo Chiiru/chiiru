@@ -1,3 +1,0 @@
-https://drive.google.com/uc?export=view&id= <replace with Google Drive ID Here>
-
-example: https://drive.google.com/uc?export=view&id=1EVaBNvfwKx9vH92CIUzrgNDKWxJzUi0k
