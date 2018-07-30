@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="2528.5714"
-     inkscape:cy="68.08059"
+     inkscape:cx="2757.1428"
+     inkscape:cy="-160.49084"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,26 +59,26 @@
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect817"
-       width="275.16666"
-       height="740.83331"
+       width="275.16663"
+       height="804.33331"
        x="444.5"
-       y="-31.083336" />
+       y="-94.583336" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="444.5"
-       y="-41.666668"
+       y="-107.28337"
        id="text821"><tspan
          sodipodi:role="line"
          id="tspan819"
          x="444.5"
-         y="-41.666668"
+         y="-107.28337"
          style="stroke-width:0.26458332">Body</tspan></text>
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect823"
        width="253.99998"
-       height="698.5"
+       height="613.83331"
        x="455.08334"
        y="0.66666669" />
     <text
@@ -109,7 +109,7 @@
          id="tspan831"
          x="465.66666"
          y="21.833332"
-         style="stroke-width:0.26458332">Title</tspan></text>
+         style="stroke-width:0.26458332">Episode Info</tspan></text>
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect853"
@@ -249,8 +249,8 @@
          sodipodi:role="line"
          id="tspan885"
          x="508"
-         y="21.833332"
-         style="stroke-width:0.26458332">&lt;h1&gt;</tspan></text>
+         y="31.197102"
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -284,5 +284,41 @@
          x="613.83331"
          y="159.41667"
          style="stroke-width:0.26458332">&lt;object&gt;</tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect852"
+       width="253.99998"
+       height="21.16667"
+       x="455.08334"
+       y="-52.25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="455.08331"
+       y="-62.833332"
+       id="text856"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="455.08331"
+         y="-62.833332"
+         style="stroke-width:0.26458332">header</tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858"
+       width="253.99998"
+       height="52.916668"
+       x="455.08334"
+       y="646.25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="455.08331"
+       y="635.3645"
+       id="text862"><tspan
+         sodipodi:role="line"
+         x="455.08331"
+         y="635.3645"
+         style="stroke-width:0.26458332"
+         id="tspan864">Footer</tspan></text>
   </g>
 </svg>
